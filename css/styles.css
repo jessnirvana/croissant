@@ -7,11 +7,15 @@ body {
 }
 
 a {
-  padding: 15px;
   color: blueviolet;
+  padding: 15px;
 }
 
 .links {
   display: flex;
   justify-content: center;
+}
+
+.email {
+  padding: 0;
 }
